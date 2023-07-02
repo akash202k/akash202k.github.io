@@ -462,3 +462,20 @@ footer .social_media_icons a:hover i{
     font-size: 8px;
   }
 }
+
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff!important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
